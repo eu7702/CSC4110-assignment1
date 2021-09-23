@@ -2,6 +2,6 @@
 
 # CSC4110-assignment1
 
-## Owace Shishani
+## owace shishani
 
-###### eu7702
+### eu7702
